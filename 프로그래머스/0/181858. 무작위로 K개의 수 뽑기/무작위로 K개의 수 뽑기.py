@@ -4,6 +4,5 @@ def solution(arr, k):
         if i not in answer:
             answer.append(i)
         if len(answer) == k:   
-            return answer
-    answer += [-1] * (k-len(answer))
-    return answer
+            break 
+    return answer + [-1] * (k-len(answer))
