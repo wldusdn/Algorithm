@@ -1,10 +1,10 @@
 # [level 0] 문자열 정수의 합 - 181849 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181849) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181849?language=python3) 
 
 ### 성능 요약
 
-메모리: 9.44 MB, 시간: 0.05 ms
+메모리: 9.28 MB, 시간: 0.05 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 02월 10일 15:30:06
+2026년 02월 10일 15:31:32
 
 ### 문제 설명
 
